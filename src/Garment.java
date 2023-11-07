@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Garment {
+public interface Garment {
+    void describe();
+
 }

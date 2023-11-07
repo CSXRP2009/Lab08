@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface GarmentFactory {
+public interface GarmentFactory {
+    Tops createTops();
+    Pants createPants();
+    Shoes createShoes();
 }

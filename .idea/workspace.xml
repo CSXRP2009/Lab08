@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d212f1-3fd7-4efd-bdac-51dad3bc93b9" name="Changes" comment="" />
+    <list default="true" id="18d212f1-3fd7-4efd-bdac-51dad3bc93b9" name="Changes" comment="New Assighnment1">
+      <changelist_data name="Richard" email="116584232+csxrp2009@users.noreply.github.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Richard &lt;116584232+csxrp2009@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XpXen1vUTrxVlv0VDtkJw5xT9c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,6 +46,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,6 +61,62 @@
       <option name="presentableId" value="Default" />
       <updated>1699327099191</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Assighnment">
+      <created>1699400837731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699400837731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Assighnment">
+      <created>1699400897873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699400897873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Assighnment">
+      <created>1699402070071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699402070071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Assighnment">
+      <created>1699402084950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699402084950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Assighnment">
+      <created>1699402107634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699402107635</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New Assighnment">
+      <created>1699402163742</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699402163742</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New Assighnment1">
+      <created>1699402176799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699402176799</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Assighnment 2" />
+    <MESSAGE value="New Assighnment" />
+    <MESSAGE value="New Assighnment1" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Assighnment1" />
   </component>
 </project>
