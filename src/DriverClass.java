@@ -4,6 +4,8 @@ public class DriverClass {
         Application app;
         GarmentFactory factory;
 
+        //
+
         if (type.equals("Professional")) {
             factory = new ProfessionalFactory();
             app = new Application(factory);
